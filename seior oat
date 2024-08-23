@@ -1,0 +1,8 @@
+Public.class.main.senior oat{
+static.void{}arg;
+int a=1;
+int b=2;
+int c=3;
+int d=4;
+SYSTEM.OUTPRINT{"SUM + int a +int b + int c +int d "};
+};
